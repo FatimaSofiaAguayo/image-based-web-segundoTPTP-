@@ -11,6 +11,7 @@ b, h1{
     color: #081880;
     height: 30px;
 }
+
 .form-p{
     color: rgb(59, 98, 226);
 }
@@ -23,46 +24,50 @@ b, h1{
     border-radius: 10px;
     margin-top: 100px;
     padding: 0px 40px;
-    
 }
+
 .flex-container2{
     display: flex;
     justify-content: flex-start;  
     padding: 20px;
-    margin: 100px;
-    
+    margin: 100px; 
 }
 
 img{
     position: relative;
     top: -20px;
 }
+
 .item1{
     position: relative;
     top: 8px;
     left: 160px;
 }
+
 .item2{
     position: relative;
     top: 11px;
     left: 350px;
-
 }
+
 .item3{
     position: relative;
     top: 10px;
     left: 500px;
 }
+
 .item4{
     position: relative;
     top: 230px;
     right:520px;
 }
+
 .item5{
     position: relative;
     top: 230px;
     right:340px;
 }
+
 .item6{
     position: relative;
     top: 230px;
